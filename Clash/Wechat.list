@@ -1,0 +1,4 @@
+# Wechat
+DOMAIN-SUFFIX,wechat.com
+IP-CIDR,43.129.254.124/10,no-resolve
+IP-CIDR,43.153.248.110/10,no-resolve
